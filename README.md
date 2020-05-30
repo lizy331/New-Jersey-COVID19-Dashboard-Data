@@ -2,6 +2,8 @@
 
 This project is to build a COVID-19 Dashboard by using Tableau.
 
+Current Dashboard: https://public.tableau.com/profile/lizy8791#!/vizhome/NJ_covid19_dashboard/Sheet1?publish=yes
+
 Data Resource:
 
 1.US county shapefiles: https://www.census.gov/cgi-bin/geo/shapefiles/index.php
