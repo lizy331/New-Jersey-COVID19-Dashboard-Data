@@ -2,7 +2,7 @@
 
 This project is to build a COVID-19 Dashboard by using Tableau.
 
-The needed data could be:
+Data involed:
 
 1.US county shapefiles: https://www.census.gov/cgi-bin/geo/shapefiles/index.php
 
