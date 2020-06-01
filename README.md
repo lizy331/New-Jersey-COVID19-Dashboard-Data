@@ -10,4 +10,4 @@ Data Resource:
 
 2.New Jersey COVID-19 data sets: https://github.com/CSSEGISandData/COVID-19
 
-3.Predicted Death: https://github.com/reichlab/covid19-forecast-hub/tree/master/data-processed/COVIDhub-ensemble
+3.State Level Predicted Death: https://github.com/reichlab/covid19-forecast-hub/tree/master/data-processed/COVIDhub-ensemble
